@@ -19,6 +19,9 @@ LANGUAGE_TO_FILENAME = {
     'pl': 'AFINN-pl-165.txt',
     'sv': 'AFINN-sv-165.txt',
     'tr': 'AFINN-tr-165.txt',
+    'es': 'AFINN-es-165.txt',
+    'pt': 'AFINN-pt-165.txt',
+    'id': 'AFINN-id-165.txt'
     }
 
 
