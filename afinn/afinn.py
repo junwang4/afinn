@@ -190,7 +190,7 @@ class Afinn(object):
                 except ValueError:
                     msg = 'Error in line %d of %s' % (n + 1, filename)
                     raise WordListReadingError(msg)
-                word_dict[word] = int(score)
+                word_dict[word] = float(score)
         return word_dict
 
     @staticmethod
