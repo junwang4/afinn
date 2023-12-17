@@ -7,7 +7,7 @@ How to install
 --------
     >>> git clone https://github.com/junwang4/afinn
     >>> cd afinn
-    >>> python setup.py install
+    >>> python setup.py install --user
 
 
 
